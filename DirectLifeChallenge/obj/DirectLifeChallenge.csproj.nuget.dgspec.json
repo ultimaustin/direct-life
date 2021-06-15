@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matthewaustin\\source\\repos\\DirectLifeChallenge\\DirectLifeChallenge\\DirectLifeChallenge.csproj": {}
+    "C:\\Users\\matthewaustin\\source\\repos\\direct-life\\DirectLifeChallenge\\DirectLifeChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matthewaustin\\source\\repos\\DirectLifeChallenge\\DirectLifeChallenge\\DirectLifeChallenge.csproj": {
+    "C:\\Users\\matthewaustin\\source\\repos\\direct-life\\DirectLifeChallenge\\DirectLifeChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matthewaustin\\source\\repos\\DirectLifeChallenge\\DirectLifeChallenge\\DirectLifeChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\matthewaustin\\source\\repos\\direct-life\\DirectLifeChallenge\\DirectLifeChallenge.csproj",
         "projectName": "DirectLifeChallenge",
-        "projectPath": "C:\\Users\\matthewaustin\\source\\repos\\DirectLifeChallenge\\DirectLifeChallenge\\DirectLifeChallenge.csproj",
+        "projectPath": "C:\\Users\\matthewaustin\\source\\repos\\direct-life\\DirectLifeChallenge\\DirectLifeChallenge.csproj",
         "packagesPath": "C:\\Users\\matthewaustin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matthewaustin\\source\\repos\\DirectLifeChallenge\\DirectLifeChallenge\\obj\\",
+        "outputPath": "C:\\Users\\matthewaustin\\source\\repos\\direct-life\\DirectLifeChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matthewaustin\\AppData\\Roaming\\NuGet\\NuGet.Config",

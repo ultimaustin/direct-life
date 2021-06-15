@@ -7,3 +7,11 @@ C:\Users\matthewaustin\source\repos\DirectLifeChallenge\DirectLifeChallenge\obj\
 C:\Users\matthewaustin\source\repos\DirectLifeChallenge\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.csproj.CoreCompileInputs.cache
 C:\Users\matthewaustin\source\repos\DirectLifeChallenge\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.dll
 C:\Users\matthewaustin\source\repos\DirectLifeChallenge\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.pdb
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.AssemblyInfoInputs.cache
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.AssemblyInfo.cs
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.dll
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\obj\Debug\netcoreapp3.1\DirectLifeChallenge.pdb
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\bin\Debug\netcoreapp3.1\DirectLifeChallenge.deps.json
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\bin\Debug\netcoreapp3.1\DirectLifeChallenge.dll
+C:\Users\matthewaustin\source\repos\direct-life\DirectLifeChallenge\bin\Debug\netcoreapp3.1\DirectLifeChallenge.pdb

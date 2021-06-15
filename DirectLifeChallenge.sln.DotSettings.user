@@ -2,5 +2,9 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c1f2216_002D85d5_002D4438_002D8575_002Dee4c6c32a51b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CartUnitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;MSTest::CB04EFDD-B1A7-4E74-A46B-5929BF3CDE41::.NETCoreApp,Version=v3.1::DirectLifeChallengeTests.CartUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CB04EFDD-B1A7-4E74-A46B-5929BF3CDE41::.NETCoreApp,Version=v3.1::DirectLifeChallengeTests.BogofOfferUnitTests.WhenCalculatingReduction_GivenNoMatchingItems_ReductionIsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CB04EFDD-B1A7-4E74-A46B-5929BF3CDE41::.NETCoreApp,Version=v3.1::DirectLifeChallengeTests.BogofOfferUnitTests.WhenCalculatingReduction_GivenOneMatchingItems_ReductionIsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CB04EFDD-B1A7-4E74-A46B-5929BF3CDE41::.NETCoreApp,Version=v3.1::DirectLifeChallengeTests.Offers.ThreeForTwoOfferUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CB04EFDD-B1A7-4E74-A46B-5929BF3CDE41::.NETCoreApp,Version=v3.1::DirectLifeChallengeTests.Offers.BuyYGetXFreeOfferUnitTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
